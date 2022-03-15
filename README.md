@@ -10,9 +10,7 @@
 </div>
 <br>
 
-
 ![image](https://raw.githubusercontent.com/hyunjungkimm/hyunjungkimm.github.io/master/src/main/resources/static/assets/img/sample.png)
-
 
 <br><br>
 
@@ -59,8 +57,15 @@ springframework 5.3.X
 ```
 <br>
 
-## DB TABLE 관계도 
+## USE CASE - USER
+![image](https://user-images.githubusercontent.com/97015607/158386299-c8f1e60f-93d3-4a46-97a2-0932e4153f38.png)
 
+<br>
+
+## USE CASE - ADMIN 
+![image](https://user-images.githubusercontent.com/97015607/158386156-a5624523-67e2-41ac-8397-bf5b1a5a690a.png)
+
+<br>
 
 ## 프로젝트 역할
 
