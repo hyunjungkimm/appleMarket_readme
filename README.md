@@ -1,1 +1,1 @@
-# appleMarket_readme
+# 프로젝트 - appleMarket
