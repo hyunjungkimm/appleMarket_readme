@@ -1,1 +1,1 @@
-# 프로젝트 - appleMarket
+# Team Project - appleMarket
