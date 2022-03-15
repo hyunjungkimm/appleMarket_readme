@@ -74,3 +74,14 @@ springframework 5.3.X
 - 이용자 페이지 api 개발 
 - 어드민 화면 개발 
 - 관심목록 화면 개발 
+
+<br>
+
+
+## Contributor
+
+📧 E-mail: dosldnjsss@gmail.com
+
+🐱 Project Github: https://github.com/jsol3122/appleMarket
+<br><br>
+
